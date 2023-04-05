@@ -29,7 +29,6 @@ To run this project locally, you'll need to have Python 3 and the following libr
 
 To install these libraries, you can use pip, like so:
 
-shell
     pip install pandas 
 
 Once you have the necessary libraries installed, you can clone this repository and start exploring the data!

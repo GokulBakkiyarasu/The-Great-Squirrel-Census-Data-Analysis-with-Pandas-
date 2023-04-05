@@ -31,7 +31,7 @@ To install these libraries, you can use pip, like so:
 
 shell
 
-pip install pandas 
+  pip install pandas 
 
 Once you have the necessary libraries installed, you can clone this repository and start exploring the data!
 Usage
